@@ -1,4 +1,4 @@
-package gg;
+
 
 import java.util.Scanner;
 
