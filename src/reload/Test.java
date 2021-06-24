@@ -1,5 +1,10 @@
 package reload;
 
+import java.io.ObjectOutputStream;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+
 public class Test {
 	public static void main(String[] args) {
          Apple apple = new Apple("ÇàÆ»¹û", "ÂÌ", "ËáËáµÄ");
